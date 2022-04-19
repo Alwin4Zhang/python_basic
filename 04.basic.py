@@ -89,3 +89,4 @@ print(datetime1.display())  # returns "10-10-1990 - 00:00:00PM"
 # returns "10-10-2000" because it's not a DateTime object but a Date object. Check the implementation of the millenium method on the Date class for more details.
 print(datetime2.display())
 print(datetime3.display())
+print(dir(datetime3))
