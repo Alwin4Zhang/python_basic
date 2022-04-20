@@ -4,7 +4,7 @@
   @Author	:  Alwin Zhang
   @Mail	:  zjfeng@homaytech.com
 '''
-
+# 工厂模式
 
 class GreekLocalizer:
     """A simple localizer a la gettext"""

@@ -4,7 +4,7 @@
   @Author	:  Alwin Zhang
   @Mail	:  zjfeng@homaytech.com
 '''
-
+# 抽象工厂模式
 import random
 from typing import Type
 
